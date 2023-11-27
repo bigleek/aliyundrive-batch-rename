@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         阿里云盘批量重命名-leek修改
-// @namespace    https://github.com/panghujiajia
-// @version      0.4.1
-// @author       https://github.com/panghujiajia
+// @name         阿里云盘批量重命名-修改
+// @namespace   https://github.com/bigleek/aliyundrive-batch-rename
+// @version      0.4.2
+// @author       https://github.com/bigleek/aliyundrive-batch-rename
 // @description  对某个剧集里面的内容进行批量重命名
 // @license      GPL
 // @icon         https://img.alicdn.com/imgextra/i2/O1CN011vHpiQ251TseXpbH7_!!6000000007466-2-tps-120-120.png
